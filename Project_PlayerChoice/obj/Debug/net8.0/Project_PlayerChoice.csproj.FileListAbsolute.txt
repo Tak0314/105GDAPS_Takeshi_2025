@@ -1,0 +1,15 @@
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\bin\Debug\net8.0\Project_PlayerChoice.exe
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\bin\Debug\net8.0\Project_PlayerChoice.deps.json
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\bin\Debug\net8.0\Project_PlayerChoice.runtimeconfig.json
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\bin\Debug\net8.0\Project_PlayerChoice.dll
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\bin\Debug\net8.0\Project_PlayerChoice.pdb
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.AssemblyInfoInputs.cache
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.AssemblyInfo.cs
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.csproj.CoreCompileInputs.cache
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.sourcelink.json
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.dll
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\refint\Project_PlayerChoice.dll
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.pdb
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\Project_PlayerChoice.genruntimeconfig.cache
+C:\Users\jerkt\Documents\GitHub\105-personal-repo-Tak0314\Projects\Project_PlayerChoice\obj\Debug\net8.0\ref\Project_PlayerChoice.dll
